@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Section8", "Section8\Section8.csproj", "{983816D3-4E91-45A5-98D2-7B0EAE4095BB}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E469F61F-2AF5-4D82-BF2C-8462F922C1F0}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+		program.png = program.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
